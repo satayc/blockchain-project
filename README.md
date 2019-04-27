@@ -1,2 +1,4 @@
 # blockchain-project
-Blockchina Project for the Accenture Hackathon 2019
+Blockchain Project for the Accenture Hackathon 2019
+## Use case
+unknown
